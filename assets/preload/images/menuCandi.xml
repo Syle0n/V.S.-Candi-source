@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menuCandi.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="menu candi animation0000" x="0" y="0" width="1494" height="1366" frameX="0" frameY="0" frameWidth="1499" frameHeight="1366"/>
+	<SubTexture name="menu candi animation0001" x="1494" y="0" width="1494" height="1366" frameX="0" frameY="0" frameWidth="1499" frameHeight="1366"/>
+	<SubTexture name="menu candi animation0002" x="2988" y="0" width="1417" height="1280" frameX="-82" frameY="-40" frameWidth="1499" frameHeight="1366"/>
+	<SubTexture name="menu candi animation0003" x="2988" y="0" width="1417" height="1280" frameX="-82" frameY="-40" frameWidth="1499" frameHeight="1366"/>
+	<SubTexture name="menu candi animation0004" x="4405" y="0" width="1391" height="1259" frameX="-93" frameY="-38" frameWidth="1499" frameHeight="1366"/>
+	<SubTexture name="menu candi animation0005" x="4405" y="0" width="1391" height="1259" frameX="-93" frameY="-38" frameWidth="1499" frameHeight="1366"/>
+	<SubTexture name="menu candi animation0006" x="5796" y="0" width="1358" height="1214" frameX="-97" frameY="-63" frameWidth="1499" frameHeight="1366"/>
+	<SubTexture name="menu candi animation0007" x="0" y="1366" width="1358" height="1214" frameX="-97" frameY="-63" frameWidth="1499" frameHeight="1366"/>
+	<SubTexture name="menu candi animation0008" x="1358" y="1366" width="1333" height="1179" frameX="-101" frameY="-60" frameWidth="1499" frameHeight="1366"/>
+	<SubTexture name="menu candi animation0009" x="1358" y="1366" width="1333" height="1179" frameX="-101" frameY="-60" frameWidth="1499" frameHeight="1366"/>
+	<SubTexture name="menu candi animation0010" x="1358" y="1366" width="1333" height="1179" frameX="-101" frameY="-60" frameWidth="1499" frameHeight="1366"/>
+	<SubTexture name="menu candi animation0011" x="1358" y="1366" width="1333" height="1179" frameX="-101" frameY="-60" frameWidth="1499" frameHeight="1366"/>
+	<SubTexture name="menu candi animation0012" x="1358" y="1366" width="1333" height="1179" frameX="-101" frameY="-60" frameWidth="1499" frameHeight="1366"/>
+	<SubTexture name="menu candi animation0013" x="1358" y="1366" width="1333" height="1179" frameX="-101" frameY="-60" frameWidth="1499" frameHeight="1366"/>
+	<SubTexture name="menu candi animation0014" x="1358" y="1366" width="1333" height="1179" frameX="-101" frameY="-60" frameWidth="1499" frameHeight="1366"/>
+	<SubTexture name="menu candi animation0015" x="0" y="0" width="1494" height="1366" frameX="0" frameY="0" frameWidth="1499" frameHeight="1366"/>
+	<SubTexture name="menu candi animation0016" x="1494" y="0" width="1494" height="1366" frameX="0" frameY="0" frameWidth="1499" frameHeight="1366"/>
+	<SubTexture name="menu candi animation0017" x="2988" y="0" width="1417" height="1280" frameX="-82" frameY="-40" frameWidth="1499" frameHeight="1366"/>
+	<SubTexture name="menu candi animation0018" x="2988" y="0" width="1417" height="1280" frameX="-82" frameY="-40" frameWidth="1499" frameHeight="1366"/>
+	<SubTexture name="menu candi animation0019" x="4405" y="0" width="1391" height="1259" frameX="-93" frameY="-38" frameWidth="1499" frameHeight="1366"/>
+	<SubTexture name="menu candi animation0020" x="4405" y="0" width="1391" height="1259" frameX="-93" frameY="-38" frameWidth="1499" frameHeight="1366"/>
+	<SubTexture name="menu candi animation0021" x="2691" y="1366" width="1358" height="1214" frameX="-101" frameY="-63" frameWidth="1499" frameHeight="1366"/>
+	<SubTexture name="menu candi animation0022" x="4049" y="1366" width="1358" height="1214" frameX="-101" frameY="-63" frameWidth="1499" frameHeight="1366"/>
+	<SubTexture name="menu candi animation0023" x="5407" y="1366" width="1333" height="1180" frameX="-101" frameY="-60" frameWidth="1499" frameHeight="1366"/>
+	<SubTexture name="menu candi animation0024" x="5407" y="1366" width="1333" height="1180" frameX="-101" frameY="-60" frameWidth="1499" frameHeight="1366"/>
+	<SubTexture name="menu candi animation0025" x="5407" y="1366" width="1333" height="1180" frameX="-101" frameY="-60" frameWidth="1499" frameHeight="1366"/>
+	<SubTexture name="menu candi animation0026" x="5407" y="1366" width="1333" height="1180" frameX="-101" frameY="-60" frameWidth="1499" frameHeight="1366"/>
+	<SubTexture name="menu candi animation0027" x="5407" y="1366" width="1333" height="1180" frameX="-101" frameY="-60" frameWidth="1499" frameHeight="1366"/>
+	<SubTexture name="menu candi animation0028" x="5407" y="1366" width="1333" height="1180" frameX="-101" frameY="-60" frameWidth="1499" frameHeight="1366"/>
+	<SubTexture name="menu candi animation0029" x="5407" y="1366" width="1333" height="1180" frameX="-101" frameY="-60" frameWidth="1499" frameHeight="1366"/>
+</TextureAtlas>
